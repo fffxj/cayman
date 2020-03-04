@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Photovoltaic System AI Utilities
+description: 光伏发电阵列异常检测及可视化分析工具
 ---
 
 ## 流程简介
